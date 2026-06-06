@@ -1,5 +1,6 @@
 # EX-NO-13-MESSAGE-AUTHENTICATION-CODE-MAC
-
+### NAME : JENISHA TEENA ROSE F
+### REGISTER NUMBER : 2305001010
 ## AIM:
 To implement MESSAGE AUTHENTICATION CODE(MAC)
 
@@ -78,7 +79,6 @@ int main() {
 ```
 
 ## Output:
-
-
+<img width="813" height="331" alt="image" src="https://github.com/user-attachments/assets/e7d664c3-26ef-4eaa-8b0e-abde25ed1fd6" />
 ## Result:
 The program is executed successfully.
